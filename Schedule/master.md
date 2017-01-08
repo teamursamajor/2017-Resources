@@ -27,3 +27,9 @@
 
 - Sort out schedule on Gantt chart
 - Break team down into teams to begin build process
+
+###What got done:
+
+...
+
+
