@@ -1,1 +1,2 @@
-pandoc -s master.md -o result.pdf
+pandoc -s master.md -o render.pdf 
+pandoc -s master.md -o shareable.docx 
